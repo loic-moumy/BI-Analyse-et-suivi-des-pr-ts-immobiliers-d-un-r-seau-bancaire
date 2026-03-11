@@ -1,4 +1,4 @@
-## Dashboard BI – Analyse des prêts immobiliers
+## Dashboard BI : Analyse des prêts immobiliers
 
 Contexte
 
